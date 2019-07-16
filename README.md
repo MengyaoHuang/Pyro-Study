@@ -9,3 +9,4 @@
 ## Category
   - [An Introduction to Models and Inference in Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/An_Introduction_to_Models_and_Inference_in_Pyro.ipynb)
   - [SVI part I:  An Introduction to Stochastic Variational Inference in Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/SVI_Part_I_An_Introduction_to_Stochastic_Variational_Inference_in_Pyro.ipynb)
+  - [Mini Pyro explanation/implementation with some examples](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Mini_Pyro.ipynb)
