@@ -6,6 +6,8 @@
   - Scalable: Pyro scales to large data sets with little overhead.
   - Minimal: Pyro is implemented with a small core of powerful, composable abstractions.
   - Flexible: Pyro aims for automation when you want it, control when you need it.
+## A simple flow chart to show
+  - ![](https://github.com/MengyaoHuang/Pyro-Study/blob/master/working%20flow.png)
 ## Category
   - [An Introduction to Models and Inference in Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/An_Introduction_to_Models_and_Inference_in_Pyro.ipynb)
   - [SVI part I:  An Introduction to Stochastic Variational Inference in Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/SVI_Part_I_An_Introduction_to_Stochastic_Variational_Inference_in_Pyro.ipynb)
