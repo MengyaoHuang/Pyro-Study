@@ -13,4 +13,4 @@
   - [SVI part I:  An Introduction to Stochastic Variational Inference in Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/SVI_Part_I_An_Introduction_to_Stochastic_Variational_Inference_in_Pyro.ipynb)
   - [Mini Pyro explanation/implementation with some examples](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Mini_Pyro.ipynb)
   - [Variational Autoencoder](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Variational_Autoencoders.ipynb)
-  - [Poutine: A Guide to Programming with Effect Handlers](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Poutine_A_Guide_to_Programming_with_Effect_Handlers.ipynb)
+  - [Poutine: A Guide to Programming with Effect Handlers(and some tensor shape intro)](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Poutine_A_Guide_to_Programming_with_Effect_Handlers.ipynb)
