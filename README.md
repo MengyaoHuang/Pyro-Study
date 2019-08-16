@@ -14,3 +14,4 @@
   - [Mini Pyro explanation/implementation with some examples](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Mini_Pyro.ipynb)
   - [Variational Autoencoder](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Variational_Autoencoders.ipynb)
   - [Poutine: A Guide to Programming with Effect Handlers(and some tensor shape intro)](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Poutine_A_Guide_to_Programming_with_Effect_Handlers.ipynb)
+  - [Gaussian Mixture Model](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Gaussian_Mixture_Model.ipynb)
