@@ -16,3 +16,4 @@
   - [Poutine: A Guide to Programming with Effect Handlers(and some tensor shape intro)](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Poutine_A_Guide_to_Programming_with_Effect_Handlers.ipynb)
   - [Gaussian Mixture Model](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Gaussian_Mixture_Model.ipynb)
   - [Hard Coding Normalizing Flow implementation without Pyro](https://github.com/MengyaoHuang/Pyro-Study/blob/master/variance_inference.ipynb)
+  - [Gaussian Mixture Model Modification with some other AutoGuide tools](https://github.com/MengyaoHuang/Pyro-Study/blob/master/GMM_modification.ipynb)
