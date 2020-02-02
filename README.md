@@ -19,3 +19,4 @@
   - [Gaussian Mixture Model Modification with some other AutoGuide tools](https://github.com/MengyaoHuang/Pyro-Study/blob/master/GMM_modification.ipynb)
   - [VAE notebook for text matching](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Matching/VAE_Pytorch_for_matching.ipynb) and the original implementation github can be found [here](https://github.com/baaesh/DeConv-VAE-pytorch) for DeConvolutionVAE
   - [Bayesian Canonical Correlation Analysis implementation in PyTorch + Tensor shape/torch.constraints/Simple examples review](https://github.com/MengyaoHuang/Pyro-Study/blob/master/BCCA_Re_implementation.ipynb)
+  - [Bayesian Regression + VAE tutorial + BCCA estimation via Normalizing Flow](https://github.com/MengyaoHuang/Pyro-Study/blob/master/BCCA_Normalizing_Flow_via_PyTorch_implementation.ipynb)
