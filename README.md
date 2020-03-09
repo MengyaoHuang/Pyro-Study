@@ -20,4 +20,4 @@
   - [VAE notebook for text matching](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Matching/VAE_Pytorch_for_matching.ipynb) and the original implementation github can be found [here](https://github.com/baaesh/DeConv-VAE-pytorch) for DeConvolutionVAE
   - [Bayesian Canonical Correlation Analysis implementation in PyTorch + Tensor shape/torch.constraints/Simple examples review](https://github.com/MengyaoHuang/Pyro-Study/blob/master/BCCA_Re_implementation.ipynb)
   - [Bayesian Regression + VAE tutorial + BCCA estimation via Normalizing Flows](https://github.com/MengyaoHuang/Pyro-Study/blob/master/BCCA_Normalizing_Flow_via_PyTorch_implementation.ipynb)
-  - [Householder Flow + BCCA](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Householder_Flows_.ipynb): remain to maintain
+  - [Flows + BCCA](https://github.com/MengyaoHuang/Pyro-Study/blob/master/Flows%20%2B%20BCCA.ipynb): initial attempt to combine a sequence of transformations and BCCA model
